@@ -14,7 +14,7 @@ $fromEmail = 'noreply@domain.com';
 $fromName = 'Rezyme contact form';
 
 // an email address that will receive the email with the output of the form
-$sendToEmail = 'teconce.ceo@gmail.com';
+$sendToEmail = 'carmenjvrensburg07@gmail.com';
 $sendToName = 'Demo contact form';
 
 // subject of the email
