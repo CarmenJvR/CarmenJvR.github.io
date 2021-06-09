@@ -5,8 +5,8 @@
 @media (min-width:1300px){
 	.rzm_outside-header {
 	width:100%;
-	background:url(../img/sunset.jpg) no-repeat;
-	min-height:250px;
+	background:url(../img/sunset.jpg) no-repeat center center;
+	min-height:300px;
 }
 .thumbnail .media-object{
 	min-width:125%;
